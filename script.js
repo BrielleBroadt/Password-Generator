@@ -8,7 +8,11 @@ var finalPassword = []
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
-
+function getRandomArray (arr){
+    var randomIndex = Math.floor(Math.random()* arr.length)
+    var randomElement = arr[randomIndex]
+    return randomElement 
+    }
 
 
 
