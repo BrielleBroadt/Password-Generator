@@ -14,20 +14,20 @@
 6. Features
 
 ## Description
-Developer created a website 
-* HTML element was created and tailored to create personalized portfolio.
-* CSS styling sheet was created to add styling, developer utilized var and flex box skills to further knowledge on CSS styling.
-* Developer learned how to create both HTML and CSS with no starter code.
-* Developer worked on making links functionable, adding backround images and advanced styling.
+Developer utilized starter code to create a website that generates a password for users
+* Javascript was utilised for the entirety of the assignemnt.
+* Variables were created and utilizd using var at the top of the code
+* If statements were utilized for if the user needs a certain criteria for the password.
+* For loop, math.floor, math.random were utilized for the functionality of the password logistics.
 
 ## Instalation
 For the developer side instalation would require VS Code. For the user side one would simply go to the web page
 
 ## Usage
-https://briellebroadt.github.io/Portfolio-Challange/
-Nav bar links take you to sections of the website
+Select the button to generate the password, follow the prompts regarding what the user needs. 
 ## Screen Shot
-![portfolio pic](https://github.com/BrielleBroadt/Portfolio-Challange/assets/135186013/d78c5b74-1fce-4875-82c8-b9feed2e4992)
+![Generate Password]![Screenshot 2023-07-19 184710](https://github.com/BrielleBroadt/Password-Generator/assets/135186013/03751e8c-b851-43d3-bb34-dbdaa87b7bcf)
+
 
 
 
